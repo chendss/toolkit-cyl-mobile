@@ -54,3 +54,4 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
+开发包/安卓/installer_r24.4.1-windows.exe
